@@ -9,8 +9,12 @@ RETQA is the first large-scale open-domain Chinese Tabular Question Answering (T
 This dataset poses unique challenges for tabular question answering due to its long-table structures, open-domain retrieval requirements, and multi-domain queries. To address these challenges, the paper also introduces the SLUTQA framework, which integrates large language models with spoken language understanding tasks to enhance retrieval and answering accuracy.
 
 ### The repository includes:
-The RETQA dataset in JSON format
-The source code for the SLUTQA framework
-Pre-trained BERT model checkpoints
-Detailed instructions for dataset usage and model training/evaluation
+1.The RETQA dataset in JSON format
+
+2.The source code for the SLUTQA framework
+
+3.Pre-trained SLUTQA model checkpoints
+
+4.Detailed instructions for dataset usage and model training/evaluation
+
 This resource is intended to advance tabular question answering research in the real estate domain and address critical challenges in open-domain and long-table question-answering. We hope it will be a valuable contribution to the research community.
