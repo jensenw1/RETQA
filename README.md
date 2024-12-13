@@ -18,3 +18,6 @@ This dataset poses unique challenges for tabular question answering due to its l
 4.Detailed instructions for dataset usage and model training/evaluation
 
 This resource is intended to advance tabular question answering research in the real estate domain and address critical challenges in open-domain and long-table question-answering. We hope it will be a valuable contribution to the research community.
+
+
+The acquisition of real estate data is supported by [Elmleaf Ltd.](https://www.elmleaf.com.cn/home) (Shanghai).
