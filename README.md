@@ -36,9 +36,9 @@ The acquisition of real estate data is supported by [Elmleaf Ltd.](https://www.e
 If you found this work useful for you, please consider citing it.
 ```
 @inproceedings{
-anonymous2024retqa,
+aaai2025retqa,
 title={{RETQA}: A Large-Scale Open-Domain Tabular Question Answering Dataset for Real Estate Sector},
-author={Anonymous},
+author={Zhensheng Wang and Wenmian Yang and Kun Zhou and Yiquan Zhang and Weijia Jia},
 booktitle={The 39th Annual AAAI Conference on Artificial Intelligence},
 year={2024},
 url={https://openreview.net/forum?id=WQrikNyXug}
