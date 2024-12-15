@@ -22,6 +22,8 @@ This resource is intended to advance tabular question answering research in the 
 
 The acquisition of real estate data is supported by [Elmleaf Ltd.](https://www.elmleaf.com.cn/home) (Shanghai).
 
+![Pipeline Diagram](figures/pipeline.png)
+
 
 # Citation
 If you found this work useful for you, please consider citing it.
