@@ -1,14 +1,17 @@
 # RETQA
-A Large-Scale Open-Domain Tabular Question Answering Dataset for the Real Estate Sector
+# A Large-Scale Open-Domain Tabular Question Answering Dataset for the Real Estate Sector
 
+
+## :boom: This work has been accepted for publication in AAAI-2025 (acceptance rate 23.4%).
 
 This repository contains the dataset and code released for the paper "RETQA: A Large-Scale Open-Domain Tabular Question Answering Dataset for Real Estate Sector".
 
-![Pipeline](https://github.com/jensenw1/RETQA/blob/main/figures/pipeline.png)
 
 RETQA is the first large-scale open-domain Chinese Tabular Question Answering (TQA) dataset focused on the real estate domain. It comprises 4,932 tables and 20,762 question-answer pairs across 16 sub-fields within three major domains: property information, real estate company finance information, and land auction information.
 
 This dataset poses unique challenges for tabular question answering due to its long-table structures, open-domain retrieval requirements, and multi-domain queries. To address these challenges, the paper also introduces the SLUTQA framework, which integrates large language models with spoken language understanding tasks to enhance retrieval and answering accuracy.
+
+![Pipeline](https://github.com/jensenw1/RETQA/blob/main/figures/pipeline.png)
 
 ### The repository includes:
 1.The RETQA dataset in JSON format
