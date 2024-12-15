@@ -21,3 +21,17 @@ This resource is intended to advance tabular question answering research in the 
 
 
 The acquisition of real estate data is supported by [Elmleaf Ltd.](https://www.elmleaf.com.cn/home) (Shanghai).
+
+
+# Citation
+If you found this work useful for you, please consider citing it.
+```
+@inproceedings{
+anonymous2024retqa,
+title={{RETQA}: A Large-Scale Open-Domain Tabular Question Answering Dataset for Real Estate Sector},
+author={Anonymous},
+booktitle={The 39th Annual AAAI Conference on Artificial Intelligence},
+year={2024},
+url={https://openreview.net/forum?id=WQrikNyXug}
+}
+```
