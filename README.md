@@ -41,6 +41,6 @@ title={{RETQA}: A Large-Scale Open-Domain Tabular Question Answering Dataset for
 author={Zhensheng Wang and Wenmian Yang and Kun Zhou and Yiquan Zhang and Weijia Jia},
 booktitle={The 39th Annual AAAI Conference on Artificial Intelligence},
 year={2024},
-url={https://openreview.net/forum?id=WQrikNyXug}
+url={https://arxiv.org/abs/2412.10104}
 }
 ```
