@@ -27,7 +27,7 @@ This resource is intended to advance tabular question answering research in the 
 
 
  
-The acquisition of real estate data is supported by [Elmleaf Ltd.\(Shanghai\)](https://www.elmleaf.com.cn/home) : https://www.elmleaf.com.cn/home.
+The acquisition of real estate data is supported by [Elmleaf Ltd.\(Shanghai\)](https://www.elmleaf.com.cn/dataset) : https://www.elmleaf.com.cn/dataset.
 
 
 
