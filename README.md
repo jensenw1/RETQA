@@ -24,7 +24,11 @@ This dataset poses unique challenges for tabular question answering due to its l
 
 This resource is intended to advance tabular question answering research in the real estate domain and address critical challenges in open-domain and long-table question-answering. We hope it will be a valuable contribution to the research community.
 
+###  This repository is still under construction:  
 
+* [ ] All tables will be uploaded by February 10, 2025.
+    
+* [ ] All SLUTQA codes will be uploaded by February 15, 2025.
 
  
 The acquisition of real estate data is supported by [Elmleaf Ltd.\(Shanghai\)](https://www.elmleaf.com.cn/dataset) : https://www.elmleaf.com.cn/dataset.
