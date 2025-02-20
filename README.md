@@ -79,7 +79,8 @@ docker run -id \
 --restart=always \
 postgres:alpine
 ```
-After successful execution, the database will be accessible via port `25432`.
+   After successful execution, the database will be accessible via port `25432`.
+
 2. **Read and Import Tables**  
    Read all the tables located in the `tables` directory, and import them into the newly created database.  
    You can run the script `databases/import_table.ipynb` to complete the database setup. Make sure to update it with the PostgreSQL username and password you have configured.
