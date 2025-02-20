@@ -32,7 +32,8 @@ psycopg2==2.9.9
 ```
 
 ## Usage
----
+
+
 ### Directory structure
 
 ```
@@ -63,7 +64,8 @@ psycopg2==2.9.9
 9 directories, 14 files
 ```
 
-Importing Data  
+### Importing Data  
+
 1. **Create a New Database**  
    Start by creating a new database. Here, we use a PostgreSQL database deployed via a Docker container. (Please ensure Docker is already installed on your system before proceeding.)  
 ```docker
