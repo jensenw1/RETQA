@@ -46,7 +46,7 @@ def restore_keywords_from_query(query, slots):
             keyword_pair.append(f'城市:{keyword[0]}')
         elif keyword[-1] == 'district':
             keyword_pair.append(f'区域:{keyword[0]}')
-        elif keyword[-1] == 'development':
+        elif keyword[-1] == 'community':
             keyword_pair.append(f'项目名称:{keyword[0]}')
         elif keyword[-1] == 'enterprise':
             keyword_pair.append(f'企业名称:{keyword[0]}')
@@ -59,11 +59,11 @@ def restore_keywords_from_query(query, slots):
 
     return keyword_pair
 
-query = "请问2020年舟山市定海区城乡建设集团有限公司的营业总成本是多少？"
-slots = "O O B-year I-year I-year I-year I-year B-enterprise I-enterprise I-enterprise I-enterprise I-enterprise I-enterprise I-enterprise I-enterprise I-enterprise I-enterprise I-enterprise I-enterprise I-enterprise I-enterprise I-enterprise I-enterprise O O O O O O O O O O"
+query = "请问广州市白云区万科未来森林小区的建筑密度是多少？"
+slots = "O O B-city I-city I-city B-district I-district I-district B-community I-community I-community I-community I-community I-community O O O O O O O O O O O"
 print(restore_keywords_from_query(query, slots))
 ```
 output:
 ```
-['年份:2020年', '企业名称:舟山市定海区城乡建设集团有限公司']
+['城市:广州市', '区域:白云区', '项目名称:万科未来森林']
 ```
