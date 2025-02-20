@@ -10,7 +10,7 @@ Detailed explanation of the files in this directory.
 2 directories, 4 files
 ```
 
-Please execute the following command to generate all the tables in CSV format:
+Please execute the following command to unpack all the tables in CSV format:
 ```
 tar -xzvf tables.tar.gz
 ```
