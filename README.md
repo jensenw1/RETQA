@@ -111,6 +111,9 @@ This resource is intended to advance tabular question answering research in the 
 The acquisition of real estate data is supported by [Elmleaf Ltd.\(Shanghai\)](https://www.elmleaf.com.cn/dataset) : https://www.elmleaf.com.cn/dataset.
 
 
+### Contact Us
+
+If you have any questions regarding the project's code or dataset, please feel free to contact me at [jensenwang@mail.bnu.edu.cn](mailto:jensenwang@mail.bnu.edu.cn) or leave an issue!
 
 
 # Citation
