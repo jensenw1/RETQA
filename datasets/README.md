@@ -9,6 +9,8 @@ Each QA pair consists of 8 key-value pairs, which are described as follows:
 - **markdown_answer**: Contains the answer in markdown format.  
 - **SQL_result**: The result obtained by executing the SQL query.  
 - **answer**: The final answer in natural language format.
+- **tokens(bert)**: The tokenized version of the natural language question using BERT tokenizer, which splits the text into wordpieces that the BERT model can process.
+- **tokens_slots(bert)**: The alignment of BIO slot labels with the BERT tokenization, ensuring each BERT token has a corresponding slot label for model training and prediction.
 
 Using the **slots** labels, we can extract keywords from the **query**. Below is a sample code snippet for this process:
 ```
