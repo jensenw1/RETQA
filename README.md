@@ -74,7 +74,7 @@ docker run -id \
 -v ./data:/var/lib/postgresql/data \
 -p 25432:5432 \
 -e POSTGRES_PASSWORD='123456' \
--e POSTGRES_USER='postgre' \
+-e POSTGRES_USER='retqa' \
 -e LANG=C.UTF-8 \
 --restart=always \
 postgres:alpine
